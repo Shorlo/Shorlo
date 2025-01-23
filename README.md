@@ -1,50 +1,87 @@
-# 🌟 Bienvenido a mi perfil de GitHub 🚀
+# 🌟 Welcome to My GitHub Profile 🚀
 
-## 👨‍💻 Sobre mí
-Soy **Javier Sainz de Baranda**, un Desarrollador Full Stack con más de **10 años de experiencia** en programación y un fuerte enfoque en el diseño, desarrollo y optimización de aplicaciones web. Durante mi carrera, he liderado proyectos innovadores que han mejorado significativamente la eficiencia operativa y tecnológica en diversas empresas.
+## 👨‍💻 About Me
+Hi, I'm **Javier Sainz de Baranda**, a **Full Stack Developer** with over **10 years of experience** in programming, specializing in designing, developing, and optimizing web applications. I have led innovative projects that have significantly improved operational and technological efficiency across various industries.
 
-## 🛠️ Tecnologías que domino
-### Lenguajes de programación
-- JavaScript (🌟)
-- Objective-C, Swift
-- PHP, Java
-- HTML5, CSS3
+## 🛠️ Technologies I Master
+### Programming Languages
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objective-c" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42"/>
+  </a>
+</p>
 
-### Frameworks y Librerías
-- Node.js, React, Angular, Laravel, Symfony
-- Puppeteer, Playwright
-- Spring Boot
+### Frameworks and Libraries
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42"/>
+  </a>
+  <a href="https://angular.io/assets/images/logos/angular/angular.svg" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="42" height="42"/>
+  </a>
+</p>
 
-### Bases de Datos
-- MongoDB, MySQL, PostgreSQL
+### Databases
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/>
+  </a>
+</p>
 
-### DevOps y Sistemas
-- Docker, NGINX, Apache
-- GitHub Actions, Jenkins, CI/CD
+### DevOps & Tools
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" alt="nginx" width="42" height="42"/>
+  </a>
+  <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
+  </a>
+</p>
 
-### Infraestructura y Nube
-- AWS, Google Cloud
-
-### APIs y Backend
-- RESTful APIs, GraphQL, Apollo Server
-
-### Otras habilidades
-- Sistemas operativos: Windows, Linux, macOS
-- Control de versiones: Git, GitHub, GitLab, Bitbucket
+### Infrastructure and Cloud
+<p>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42"/>
+  </a>
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="42" height="42"/>
+  </a>
+</p>
 
 ## 🎓 Certificaciones
 - [**Graph Developer - Associate** (Apollo GraphQL)](https://www.apollographql.com/tutorials/certifications/4f49ad42-709f-462e-a118-5c9b237ab2e9)
 - [**Graph Developer - Professional** (Apollo GraphQL)](https://www.apollographql.com/tutorials/certifications/e031d2e2-f3e9-449b-8114-facb2ebf91f3)
 - [**MongoDB Node.js Developer Path** (MongoDB University)](https://learn.mongodb.com/c/UgN3gvX4RqqqMDRMK3NB0g)
 
-## ✍️ Autoría
-Soy autor del libro **"Introducción a Objective-C"**, disponible en [Apple Books](https://books.apple.com/us/book/introducci%C3%B3n-a-objetive-c/id1408127002).
-
-## 🌐 Contacto
-- 📧 **Correo**: [javier.sabago@gmail.com](mailto:javier.sabago@gmail.com)  
+## 🌐 Contact
+- 📧 **Email**: [javier.sabago@gmail.com](mailto:javier.sabago@gmail.com)  
 - 💼 **LinkedIn**: [Javier Sainz de Baranda](https://www.linkedin.com/in/javier-sainz-de-baranda)  
-- 🐙 **GitHub**: [shorlo](https://github.com/shorlo)  
+- 🐙 **GitHub**: [shorlo](https://github.com/shorlo)
 
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=shorlo&show_icons=true&theme=radical)  ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=shorlo&layout=compact&theme=radical)
-
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shorlo&show_icons=true&theme=radical)  
+!
