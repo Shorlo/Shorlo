@@ -55,7 +55,7 @@ Hi, I'm **Javier Sainz de Baranda**, a **Full Stack Developer** with over **10 y
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42"/>
   </a>
   <a href="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" alt="nginx" width="42" height="42"/>
+    <img src="https://nginx.org/img/nginx_logo_dark.png" alt="nginx" width="42" height="42"/>
   </a>
   <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/>
