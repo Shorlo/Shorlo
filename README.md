@@ -51,7 +51,7 @@ I'm the author of the book **"Introduction to Objective-C"**, available on [Appl
 
 ## ❤️ Support Me 
 
-<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/shorlo">
+<a href="https://buymeacoffee.com/shorlo">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 
