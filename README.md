@@ -45,8 +45,7 @@ I'm the author of the book **"Introduction to Objective-C"**, available on [Appl
 - 💼 **LinkedIn**: [Javier Sainz de Baranda](https://www.linkedin.com/in/javier-sainz-de-baranda)  
 - 🐙 **GitHub**: [shorlo](https://github.com/shorlo)  
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shorlo&show_icons=true&theme=radical)  
+## 📊 GitHub Stats 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorlo&layout=compact&theme=radical)
 
 ## ❤️ Support Me 
