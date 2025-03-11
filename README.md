@@ -5,10 +5,7 @@ Hi, I'm **Javier Sainz de Baranda**, a **Full Stack Developer** with over **10 y
 
 ## 🛠️ Technologies I Master
 ### Programming Languages
-- JavaScript (🌟)
-- Objective-C, Swift
-- PHP, Java
-- HTML5, CSS3
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorlo&layout=compact&theme=radical)
 
 ### Frameworks and Libraries
 - Node.js, React, Angular, Laravel, Symfony
@@ -45,8 +42,7 @@ I'm the author of the book **"Introduction to Objective-C"**, available on [Appl
 - 💼 **LinkedIn**: [Javier Sainz de Baranda](https://www.linkedin.com/in/javier-sainz-de-baranda)  
 - 🐙 **GitHub**: [shorlo](https://github.com/shorlo)  
 
-## 📊 GitHub Stats 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorlo&layout=compact&theme=radical)
+
 
 ## ❤️ Support Me 
 
