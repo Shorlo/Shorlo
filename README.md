@@ -1,7 +1,7 @@
 # 🌟 Welcome to My GitHub Profile 🚀
 
 ## 👨‍💻 About Me
-Hi, I'm **Javier Sainz de Baranda**, a **Full Stack Developer** with over **10 years of experience** in programming, specializing in designing, developing, and optimizing web applications. Throughout my career, I have led innovative projects that have significantly improved operational and technological efficiency across various companies.
+Hi, I'm **Javier Sainz de Baranda**, a **Full Stack Developer** with over **5 years of experience** in programming, specializing in designing, developing, and optimizing web applications. Throughout my career, I have led innovative projects that have significantly improved operational and technological efficiency across various companies.
 
 ## 🛠️ Technologies I Master
 ### Programming Languages
