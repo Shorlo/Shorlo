@@ -5,7 +5,7 @@ Hi, I'm **Javier Sainz de Baranda**, a **Full Stack Developer** with over **10 y
 
 ## 🛠️ Technologies I Master
 ### Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shorlo&layout=compact&theme=radical)
+TypeScript, JavaScript, PHP, Swift, Objetive-C, Python
 
 ### Frameworks and Libraries
 - Node.js, React, Angular, Laravel, Symfony
@@ -17,13 +17,13 @@ Hi, I'm **Javier Sainz de Baranda**, a **Full Stack Developer** with over **10 y
 
 ### DevOps and Systems
 - Docker, NGINX, Apache
-- GitHub Actions, Jenkins, CI/CD
+- GitHub Actions, CI/CD
 
 ### Infrastructure & Cloud
-- AWS, Google Cloud
+- AWS, Google Cloud, Microsoft Azure
 
 ### APIs & Backend
-- RESTful APIs, GraphQL, Apollo Server
+- RESTful APIs, GraphQL, Apollo Server, Express
 
 ### Other Skills
 - Operating Systems: Windows, Linux, macOS
