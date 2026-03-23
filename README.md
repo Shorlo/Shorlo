@@ -116,7 +116,7 @@ Improved commercial performance through automated search systems, data analysis 
 | 🌍 Personal website | [![javiersainzdebaranda.es](https://img.shields.io/badge/javiersainzdebaranda.es-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://javiersainzdebaranda.es) |
 | 🚀 SyberianCode | [![syberiancode.com](https://img.shields.io/badge/syberiancode.com-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://syberiancode.com) |
 | 📧 Personal email | [![Email](https://img.shields.io/badge/contacto@javiersainzdebaranda.es-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contacto@javiersainzdebaranda.es) |
-| 📧 SyberianCode email | [![Email](https://img.shields.io/badge/info@syberiancode.co-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@syberiancode.co) |
+| 📧 SyberianCode email | [![Email](https://img.shields.io/badge/info@syberiancode.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@syberiancode.co) |
 | 💼 LinkedIn | [![LinkedIn](https://img.shields.io/badge/Javier_Sainz_de_Baranda-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-sainz-de-baranda) |
 | 🐙 GitHub | [![GitHub](https://img.shields.io/badge/shorlo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shorlo) |
 
